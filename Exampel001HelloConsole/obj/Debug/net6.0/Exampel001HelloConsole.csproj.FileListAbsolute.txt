@@ -1,0 +1,15 @@
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/bin/Debug/net6.0/Exampel001HelloConsole
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/bin/Debug/net6.0/Exampel001HelloConsole.deps.json
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/bin/Debug/net6.0/Exampel001HelloConsole.runtimeconfig.json
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/bin/Debug/net6.0/Exampel001HelloConsole.dll
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/bin/Debug/net6.0/Exampel001HelloConsole.pdb
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/Exampel001HelloConsole.csproj.AssemblyReference.cache
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/Exampel001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/Exampel001HelloConsole.AssemblyInfoInputs.cache
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/Exampel001HelloConsole.AssemblyInfo.cs
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/Exampel001HelloConsole.csproj.CoreCompileInputs.cache
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/Exampel001HelloConsole.dll
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/refint/Exampel001HelloConsole.dll
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/Exampel001HelloConsole.pdb
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/Exampel001HelloConsole.genruntimeconfig.cache
+/Users/kat/Desktop/Stady2/Exampel001HelloConsole/obj/Debug/net6.0/ref/Exampel001HelloConsole.dll
