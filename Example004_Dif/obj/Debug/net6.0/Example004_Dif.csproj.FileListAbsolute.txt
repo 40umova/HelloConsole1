@@ -1,0 +1,15 @@
+/Users/kat/Desktop/Stady2/Example004_Dif/bin/Debug/net6.0/Example004_Dif
+/Users/kat/Desktop/Stady2/Example004_Dif/bin/Debug/net6.0/Example004_Dif.deps.json
+/Users/kat/Desktop/Stady2/Example004_Dif/bin/Debug/net6.0/Example004_Dif.runtimeconfig.json
+/Users/kat/Desktop/Stady2/Example004_Dif/bin/Debug/net6.0/Example004_Dif.dll
+/Users/kat/Desktop/Stady2/Example004_Dif/bin/Debug/net6.0/Example004_Dif.pdb
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/Example004_Dif.csproj.AssemblyReference.cache
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/Example004_Dif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/Example004_Dif.AssemblyInfoInputs.cache
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/Example004_Dif.AssemblyInfo.cs
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/Example004_Dif.csproj.CoreCompileInputs.cache
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/Example004_Dif.dll
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/refint/Example004_Dif.dll
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/Example004_Dif.pdb
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/Example004_Dif.genruntimeconfig.cache
+/Users/kat/Desktop/Stady2/Example004_Dif/obj/Debug/net6.0/ref/Example004_Dif.dll
